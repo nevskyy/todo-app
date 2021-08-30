@@ -1,5 +1,5 @@
 {
-  "http://nevskyy.github.io/todo-app",
+  "homepage": "http://nevskyy.github.io/todo-app",
   "name": "todo-app",
   "version": "0.1.0",
   "private": true,
